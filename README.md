@@ -1,14 +1,16 @@
 # 💫 About Me:
 ### I'm currently working on 🌱
-<br>Generative AI, Machine Learning, and Deep Learning projects, pushing the boundaries of what intelligent systems can achieve.<br><br>
+<br>Unity,Game Dev Generative AI, Machine Learning, and Deep Learning projects, pushing the boundaries of what intelligent systems can achieve.<br><br>
 ### I'm looking to collaborate on 🤝
-<br>Open-source projects, particularly those focused on .NET, Artificial Intelligence, and Generative AI, to innovate and share knowledge within the community.<br><br>
+<br>Open-source projects, particularly those focused on Game Dev ,  .NET, Artificial Intelligence, and Generative AI, to innovate and share knowledge within the community.<br><br>
 ### I'm looking for help with 🧠 <br>
 Enhancing my expertise in Generative AI to build more advanced and efficient models.<br><br>
 ### I'm currently learning 🌱
+
+<br>Unity.<br><br>
 <br>The latest advancements in Generative AI and Natural Language Processing to stay at the forefront of technology.<br><br>
 ### Ask me about 💬
-<br>Any topics related to .NET, Generative AI, or Natural Language Processing. I'm always excited to discuss and share insights.<br><br>
+<br>Any topics related to Game Dev .NET, Generative AI, or Natural Language Processing. I'm always excited to discuss and share insights.<br><br>
 ### Fun fact ⚡
 <br>The first computer virus was created in 1983 and was written in just 400 lines of code!
 
